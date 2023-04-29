@@ -1,0 +1,26 @@
+{
+    "id": "589AAAB2",
+    "path": "~/git/chatgpt_contamination/Code/Analysis.R",
+    "project_path": "Analysis.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1681932031596.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "149,83",
+        "scrollLine": "1"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1682800190,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1682800190,
+    "read_only": false,
+    "read_only_alternatives": []
+}
